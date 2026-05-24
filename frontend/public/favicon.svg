@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <!-- Dark background circle -->
+  <circle cx="16" cy="16" r="16" fill="#10101c"/>
+  <!-- Left link ring -->
+  <path d="M13 19.5a5 5 0 0 1 0-7.07l2.47-2.47a1 1 0 0 0-1.41-1.41l-2.47 2.47a7 7 0 0 0 9.9 9.9l2.47-2.47a1 1 0 0 0-1.41-1.41l-2.47 2.47A5 5 0 0 1 13 19.5z" fill="#7c5cbf"/>
+  <!-- Right link ring -->
+  <path d="M19 12.5a5 5 0 0 1 0 7.07l-2.47 2.47a1 1 0 0 0 1.41 1.41l2.47-2.47a7 7 0 0 0-9.9-9.9L8.04 13.55a1 1 0 0 0 1.41 1.41l2.47-2.47A5 5 0 0 1 19 12.5z" fill="#7c5cbf"/>
+  <!-- Chain connector line -->
+  <line x1="13.5" y1="18.5" x2="18.5" y2="13.5" stroke="#7c5cbf" stroke-width="1.8" stroke-linecap="round"/>
+</svg>
